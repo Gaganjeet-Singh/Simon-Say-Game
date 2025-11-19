@@ -13,6 +13,7 @@ body {
 .btn-container {
     display: flex;
     justify-content: center;
+    
 }
 
 .red {
@@ -29,4 +30,8 @@ body {
 
 .purple {
     background-color: #819ff9;
+}
+
+.flash {
+    background-color: white;
 }
